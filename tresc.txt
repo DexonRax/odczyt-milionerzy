@@ -1,0 +1,31 @@
+Instructions
+Napisz program w języku C++, który wczyta dane z pliku "dane.txt" zawierającego milion pseudolosowych liczb zmiennoprzecinkowych z zakresu od 10.0 do 100.0. Następnie wykonaj obliczenia na wczytanych liczbach.
+
+Pamiętaj o:
+
+1. Otworzeniu pliku "dane.txt" do odczytu.
+2. Wczytaniu wszystkich miliona liczb z pliku.
+3. Wykonaniu operacji matematycznej na wczytanych liczbach: obliczenie średniej arytmetycznej, obliczenie sumy wszystkich liczb, znalezienie minimalnej wartości w zbiorze liczb, znalezienie maksymalnej wartości w zbiorze liczb.
+4. Wyświetleniu TYLKO wyników obliczeń. Wyniki MOGĄ być przedstawione w zapisie naukowym.
+
+Oceniane będą:
+- umiejętności korzystania z operacji na plikach: 1pkt
+- wykorzystanie pętli: 1 pkt
+- wykonanie operacji matematycznych: 1 pkt
+- wyświetlenie wyniku na standardowym wyjściu: 1pkt
+
+Po napisaniu programu, uruchom program i sprawdź, czy wyniki obliczeń są poprawne.
+
+Dane wynikowe:
+Suma wszystkich liczb: 5.49854e+07
+Srednia arytmetyczna: 54.9854
+Minimum: 10
+Maksimum: 100
+
+Ocena:
+
+Bardzo Dobry (Bdb) - 4 pkt
+Dobry (Db) - 3 pkt
+Dostateczny (Dst) - 2 pkt
+Dopuszczających (Dop) - 1 pkt
+Niedostateczny (Ndst) - 0 pkt
